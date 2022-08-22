@@ -8,6 +8,7 @@ authors = ["Konrad Ruciński <konradR1999@gmail.com>"]
 python = "^3.9"
 numpy = "^1.23.2"
 pytest = "^7.1.2"
+mypy = "^0.971"
 
 [tool.poetry.dev-dependencies]
 
